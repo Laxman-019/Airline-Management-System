@@ -73,7 +73,6 @@ Airline-Management-System/
 └── README.md
 ```
 
-
 ---
 
 ## ⚙️ Installation & Setup
